@@ -5,7 +5,7 @@
 * Estudo contínuo de javascript, css e html5;
 * Servir de exemplo para outros que queiram usar :)...
 
-## Organixação:
+## Organização:
 
 * A minha estilização está dentro da pasta 'assest'. Dentro dela vc encontrará um arquivo chamado 'style.css' que 
 está dentro da pasta css. (Não se esqueca de chamar a estilização no index ;) !
